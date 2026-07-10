@@ -1,31 +1,57 @@
-# Privacy Policy for STURNET
+# STURNET Privacy Policy
 
-**Effective date: July 10, 2026**
+This repository contains the public Privacy Policy webpage for the **STURNET** mobile application.
 
-## 1. Introduction
-STURNET ("we", "our", or "the app") is a mobile application developed for sturgeon bycatch reporting and species identification. This privacy policy explains how we handle information when you use the app.
+STURNET is a mobile application developed for sturgeon bycatch reporting, species identification, and conservation research.
 
-## 2. Information We Collect
-STURNET does **not** collect, transmit, or share any personal data with external servers or third parties.
+## Published Privacy Policy
 
-The app uses the following device features:
+The live Privacy Policy is available at:
 
-- **Location** — used solely to attach GPS coordinates to bycatch reports you create. Location data is stored only on your device and is never sent to any server.
-- **Camera** — used to take photos for bycatch reports. Photos are stored locally on your device only.
-- **Local storage** — bycatch reports you create are saved on your device using local storage (Hive database). No data leaves your device.
+[https://pbb-foundation.github.io/sturnet-privacy-policy/](https://pbb-foundation.github.io/sturnet-privacy-policy/)
 
-## 3. Data Sharing
-We do not sell, trade, or share any user data with third parties. All data remains on your device at all times.
+The webpage source is located in:
 
-## 4. Data Retention & Deletion
-All data stored by STURNET is kept exclusively on your device. To delete all data, simply uninstall the app.
+- [`index.html`](./index.html)
 
-## 5. Children's Privacy
-STURNET is not directed at children under 13. We do not knowingly collect data from children.
+## Information Covered
 
-## 6. Changes to This Policy
-We may update this policy occasionally. Any changes will be reflected on this page with an updated effective date.
+The Privacy Policy explains:
 
-## 7. Contact
-If you have any questions about this privacy policy, contact us at:
-**koustavroy88@gmail.com**
+- What bycatch and sighting information STURNET handles
+- Optional GPS-location collection
+- Catch, species, condition, measurement, and report-note data
+- Local storage of pending reports
+- User-controlled report synchronisation
+- Transmission of synchronised reports to the STURNET research server
+- Scientific and conservation use of submitted reports
+- Data-retention and deletion procedures
+- Children's privacy
+- Contact information
+
+## Data Handling Summary
+
+Reports are initially stored locally on the user's device.
+
+When the user selects **Sync Now**, pending report data is transmitted to the STURNET research server at [sturnet.eu](https://sturnet.eu/) for scientific research and sturgeon-conservation purposes.
+
+Reports that are not synchronised remain stored only on the user's device.
+
+STURNET does not require users to create an account and does not request a name, email address, telephone number, or another personal identifier as part of a bycatch report.
+
+GPS coordinates are optional and are included only when the user chooses to capture a location for a report.
+
+STURNET does not use the device camera and does not collect or upload photographs.
+
+## Contact
+
+For privacy questions or requests concerning synchronised reports, contact:
+
+**sturnetproject@gmail.com**
+
+## Repository Structure
+
+```text
+.
+├── index.html
+└── README.md
