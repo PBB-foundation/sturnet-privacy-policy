@@ -49,6 +49,13 @@ For privacy questions or requests concerning synchronised reports, contact:
 
 **sturnetproject@gmail.com**
 
+## Funding Acknowledgement
+
+STURNET is co-funded by the European Union through the  
+[Interreg NEXT Black Sea Basin Programme](https://blacksea-cbc.net/interreg-next-bsb-2021-2027).
+
+The official Interreg NEXT Black Sea Basin and European Union visibility banner is displayed on the published STURNET Privacy Policy webpage.
+
 ## Repository Structure
 
 ```text
