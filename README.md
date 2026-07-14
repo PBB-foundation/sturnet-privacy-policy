@@ -14,20 +14,20 @@ The webpage source is located in:
 
 - [`index.html`](./index.html)
 
-## Information Covered
+## GDPR Compliance
 
-The Privacy Policy explains:
+This policy complies with Regulation (EU) 2016/679 (GDPR) and covers:
 
-- What bycatch and sighting information STURNET handles
-- Optional GPS-location collection
-- Catch, species, condition, measurement, and report-note data
-- Local storage of pending reports
-- User-controlled report synchronisation
-- Transmission of synchronised reports to the STURNET research server
-- Scientific and conservation use of submitted reports
-- Data-retention and deletion procedures
-- Children's privacy
-- Contact information
+- **Data Controller** — Protection of Biodiversity in Bulgaria Foundation (PBB Foundation), BULSTAT 176932524, Bulgaria, Burgas region, Chernomoretz city 8124, 8, Phoenix St.; no DPO required under Art. 37
+- **Legal Basis** — Art. 6(1)(f) legitimate interests in scientific research, with Art. 89(1) safeguards
+- **Information Collected** — bycatch and sighting field data, optional GPS coordinates, timestamps, and server log data (IP address on sync; retained max 12 months)
+- **Identifiability Note** — GPS coordinates and timestamps may indirectly identify a fishing activity; users are advised not to enter personal details in free-text fields
+- **Recipients** — PBB Foundation project staff, named Interreg NEXT Black Sea Basin partner organisations (Aristotle University of Thessaloniki, ECC Cahul, Gebze Technical University, IMEER/NASU Ukraine, GeoEcoMar Romania), hosting provider SUPERHOSTING.BG (Art. 28 processor), public authorities where required by law
+- **Storage** — local device storage before sync; MySQL database at sturnet.eu (EU/EEA) after sync
+- **Retention** — retained for the project duration and long-term research; reviewed at least every 5 years; deletion requests processed within one month (Art. 12(3) GDPR)
+- **Your Rights** — access, rectification, erasure, restriction, portability, objection, consent withdrawal (Art. 7(3)); Art. 11 GDPR applies where data subject cannot be identified; right to complain to the Bulgarian CPDP
+- **International Transfers** — all data stored and processed within the EU/EEA; no third-country transfers
+- **Children's Privacy** — not directed at children; age of digital consent in Bulgaria is 14 (Art. 8 GDPR; up to 16 in some EU Member States)
 
 ## Data Handling Summary
 
@@ -47,7 +47,11 @@ STURNET does not use the device camera and does not collect or upload photograph
 
 For privacy questions or requests concerning synchronised reports, contact:
 
-**sturnetproject@gmail.com**
+**privacy@sturnet.eu**
+
+PBB Foundation, Bulgaria, Burgas region, Chernomoretz city 8124, 8, Phoenix St.
+
+Supervisory authority (Bulgaria): [Commission for Personal Data Protection (CPDP)](https://www.cpdp.bg/) — kzld@cpdp.bg
 
 ## Funding Acknowledgement
 
@@ -62,3 +66,4 @@ The official Interreg NEXT Black Sea Basin and European Union visibility banner 
 .
 ├── index.html
 └── README.md
+```
